@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: '🖐🖐🖐 Hé Lô ! 🖐🖐🖐',
     introDesc: `hôm nay có điều này muốn nói quá nè`,
     btnIntro: 'OK',
-    title: 'Dù biết sinh nhật qua rồi nhưng mà ... 😙',
+    title: 'Dù biết sinh nhật qua rồi nhưng mà ...',
     desc: 'Chúc Ngọc tuổi mới nhiều năng lượng mới, có nhiều niềm vui, hạnh phúc và đạt được những dự định đặt ra nhaaaaa :> ',
     btnYes: 'Hí hí, cám ơn bé Nhiên đáng êu xinh đẹp nà 💖💖💖',
     btnNo: '💔 Sinh nhật lâu rồi mà giờ mới có quà là saoooo ! 💔 ',
